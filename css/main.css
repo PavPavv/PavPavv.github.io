@@ -299,6 +299,10 @@ section#team > .wr > .row3, section#team > #footer > .row3 {
       padding-right: 0; }
       section#team > .wr > .row2 li .col1, section#team > #footer > .row2 li .col1 {
         margin: 0 auto 20px auto; }
+        section#team > .wr > .row2 li .col1_1, section#team > #footer > .row2 li .col1_1 {
+        margin: 0 auto 20px auto; }
+        section#team > .wr > .row2 li .col1_2, section#team > #footer > .row2 li .col1_2 {
+        margin: 0 auto 20px auto; }
       section#team > .wr > .row2 li .col2, section#team > #footer > .row2 li .col2 {
         width: 100%;
         margin: 0 auto;
