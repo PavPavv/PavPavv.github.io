@@ -225,7 +225,21 @@ section#team > .wr > .row2, section#team > #footer > .row2 {
       width: 128px;
       height: 128px;
       border-radius: 50%;
-      background: no-repeat center / cover; }
+      background: url(../i/mozgood.jpg) no-repeat center / cover; }
+      
+    section#team > .wr > .row2 li .col1_1, section#team > #footer > .row2 li .col1_1 {
+      width: 128px;
+      height: 128px;
+      border-radius: 50%;
+      background: url(../i/ubuntugood.jpg) no-repeat center / cover; }
+
+    section#team > .wr > .row2 li .col1_2, section#team > #footer > .row2 li .col1_2 {
+      width: 128px;
+      height: 128px;
+      border-radius: 50%;
+      background: url(../i/jsb.jpg) no-repeat center / cover; }
+
+
     section#team > .wr > .row2 li .col2, section#team > #footer > .row2 li .col2 {
       width: calc(100% - 128px);
       padding-left: 20px;
